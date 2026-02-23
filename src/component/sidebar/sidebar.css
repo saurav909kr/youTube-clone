@@ -52,3 +52,8 @@ border-bottom: 3px solid red;
     width: 50%;
     margin-bottom: 25px;
 }
+@media(max-width:990px){
+    .sidebar{
+        display: none;
+    }
+}
