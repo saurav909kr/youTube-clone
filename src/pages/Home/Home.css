@@ -1,3 +1,6 @@
+*{
+    overflow-x: auto;
+}
 .container{
       background: #f9f9f9;
       padding-left: 17%;
